@@ -8,6 +8,7 @@ As part of the [HugGAN](https://github.com/huggingface/community-events/tree/mai
 * [Model card for the student model on HuggingFace](https://huggingface.co/huggan/distill-ccld-wa), trained by me. You can check my [WandB report](https://wandb.ai/gigant/distill-ccld/reports/Distill-Diffusion-105M--VmlldzoxODQwMTUz?accessToken=mfbrz1ghfakmh01lybsuycwm3qj3isv60uynnvmina3tiwz5e5ufbjui5xqhmaqi). This version has 105M parameters, against 1.2B parameters for the teacher version. It is lighter, and allows for faster inference, while maintaining some of the original model capability at generating paintings from prompts.
 * [Gradio demo app on HuggingFace's Spaces](https://huggingface.co/spaces/huggan/wikiart-diffusion-mini) to try out the model with an online demo app
 * [iPython Notebook](https://github.com/giganttheo/distill-ccld/blob/master/distillCCLD_(Wikiart)_demo.ipynb) to use the model in Python
+* [WikiArt dataset on `datasets` hub](https://huggingface.co/datasets/huggan/wikiart)
 * [GitHub repository](https://github.com/giganttheo/distill-ccld)
 
 
