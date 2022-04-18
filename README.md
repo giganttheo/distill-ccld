@@ -1,4 +1,4 @@
-## Distill CLOOB-Conditioned Latend
+## Distill CLOOB-Conditioned Latent Diffusion trained on WikiArt
 
 As part of the [HugGAN](https://github.com/huggingface/community-events/tree/main/huggan) community event, I trained a 105M-parameters latent diffusion model using a knowledge distillation process.
 
