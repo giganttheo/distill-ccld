@@ -2,12 +2,14 @@
 
 As part of the [HugGAN](https://github.com/huggingface/community-events/tree/main/huggan) community event, I trained a 105M-parameters latent diffusion model using a knowledge distillation process.
 
-#### Links :
+#### Links
 
 * [Model card for the teacher model on HuggingFace](https://huggingface.co/huggan/ccld_wa), trained by Jonathan Whitaker. He described the model and training procedure on his [blog post](https://datasciencecastnet.home.blog/2022/04/12/fine-tuning-a-cloob-conditioned-latent-diffusion-model-on-wikiart/)
-* [Model card for the student model on HuggingFace](https://huggingface.co/huggan/distill-ccld-wa), trained by me. You can check for my [WandB report](https://wandb.ai/gigant/distill-ccld/reports/Distill-Diffusion-105M--VmlldzoxODQwMTUz?accessToken=mfbrz1ghfakmh01lybsuycwm3qj3isv60uynnvmina3tiwz5e5ufbjui5xqhmaqi). This version is 105M parameters, against 1.2B parameters for the teacher version. So it is lighter, and allows for faster inference, while maintaining some of the original model capability at generating paintings from prompts.
+* [Model card for the student model on HuggingFace](https://huggingface.co/huggan/distill-ccld-wa), trained by me. You can check my [WandB report](https://wandb.ai/gigant/distill-ccld/reports/Distill-Diffusion-105M--VmlldzoxODQwMTUz?accessToken=mfbrz1ghfakmh01lybsuycwm3qj3isv60uynnvmina3tiwz5e5ufbjui5xqhmaqi). This version has 105M parameters, against 1.2B parameters for the teacher version. It is lighter, and allows for faster inference, while maintaining some of the original model capability at generating paintings from prompts.
 * [Gradio demo app on HuggingFace's Spaces](https://huggingface.co/spaces/huggan/wikiart-diffusion-mini) to try out the model with an online demo app
-* [Colab Notebook]() to use the model in Python
+* [iPython Notebook](https://github.com/giganttheo/distill-ccld/blob/master/distillCCLD_(Wikiart)_demo.ipynb) to use the model in Python
+* [GitHub repository](https://github.com/giganttheo/distill-ccld)
+
 
 
 #### How to use
