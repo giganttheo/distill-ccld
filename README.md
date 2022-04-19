@@ -5,7 +5,7 @@
 As part of the [HugGAN](https://github.com/huggingface/community-events/tree/main/huggan) community event, I trained a 105M-parameters latent diffusion model using a knowledge distillation process.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giganttheo/distill-ccld/blob/master/distillCCLD_(Wikiart)_demo.ipynb) [![](https://img.shields.io/badge/W%26B-Report-yellow)](https://wandb.ai/gigant/distill-ccld/reports/Distill-Diffusion-105M--VmlldzoxODQwMTUz?accessToken=mfbrz1ghfakmh01lybsuycwm3qj3isv60uynnvmina3tiwz5e5ufbjui5xqhmaqi)
-[![](https://img.shields.io/badge/%F0%9F%A4%97-Hub-yellow)](https://huggingface.co/huggan/ccld_wa)
+[![](https://img.shields.io/badge/%F0%9F%A4%97-Hub-yellow)](https://huggingface.co/huggan/distill-ccld-wa)
 [![](https://img.shields.io/badge/%F0%9F%A4%97-Space-yellow)](https://huggingface.co/spaces/huggan/wikiart-diffusion-mini)
 
 
