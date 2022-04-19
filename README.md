@@ -10,8 +10,8 @@ As part of the [HugGAN](https://github.com/huggingface/community-events/tree/mai
 
 
 <p align="center">
-    <img src="https://github.com/giganttheo/distill-ccld/blob/master/distill-mars-monet.png" alt="drawing" width="500"/>
-    <div align="center">Prompt : "A martian landscape, in the style of Monet"</div>
+    <img src="https://github.com/giganttheo/distill-ccld/blob/master/distill-snow.png" alt="drawing" width="500"/>
+    <div align="center">Prompt : "A snowy landscape, oil on canvas"</div>
 </p>
 
 
