@@ -38,3 +38,10 @@ You need some dependancies from multiple repositories linked in this repository 
 
 An example code to use the model to sample images from a text prompt can be seen in a [Colab Notebook](https://colab.research.google.com/drive/1XGHdO8IAGajnpb-x4aOb-OMYfZf0WDTi?usp=sharing), or directly in the [app source code](https://huggingface.co/spaces/huggan/wikiart-diffusion-mini/blob/main/app.py) for the Gradio demo on [this Space](https://huggingface.co/spaces/huggan/wikiart-diffusion-mini)
 
+
+###Demo images
+
+<p align="center">
+    <img src="https://github.com/giganttheo/distill-ccld/blob/master/distill-mars.png" alt="drawing" width="500"/>
+    <div align="center">Prompt : "A martian landscape painting, oil on canvas"</div>
+</p>
