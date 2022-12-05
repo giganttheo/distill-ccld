@@ -28,7 +28,7 @@ As part of the [HugGAN](https://github.com/huggingface/community-events/tree/mai
 
 #### How to use
 
-You need some dependancies from multiple repositories linked in this repository : [CLOOB latent diffusion](https://github.com/JD-P/cloob-latent-diffusion) :
+You need some dependencies from multiple repositories linked in this repository : [CLOOB latent diffusion](https://github.com/JD-P/cloob-latent-diffusion) :
 
 * [CLIP](https://github.com/openai/CLIP/tree/40f5484c1c74edd83cb9cf687c6ab92b28d8b656)
 * [CLOOB](https://github.com/crowsonkb/cloob-training/tree/136ca7dd69a03eeb6ad525da991d5d7083e44055) : the model to encode images and texts in an unified latent space, used for conditioning the latent diffusion.
